@@ -37,6 +37,11 @@ body {
     -moz-transition: width 0.4s ease;
     -ms-transition: width 0.4s ease;
     -o-transition: width 0.4s ease;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
 }
 
 .search.active .input {
@@ -60,6 +65,11 @@ body {
     -ms-transition: right 0.4s ease;
     -o-transition: right 0.4s ease;
     font-size: 24px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
 }
 
 .search.active .btn {
